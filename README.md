@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucifer-b16
+- 👋 Hi, I’m Bharath S
 - 👀 My interests revolve around the dynamic world of software development. I'm fascinated by programming languages, software architecture, and the ever-evolving tech landscape.
 - 🌱 I'm on a perpetual journey of learning and growth. Presently, I'm delving into Amrita Vishwa Vidyapeetham to enhance my skill set.
 - 💞️ I'm enthusiastic about collaborating on impactful software projects. Let's bring ideas to life!
